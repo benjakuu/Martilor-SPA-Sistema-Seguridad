@@ -1,0 +1,4 @@
+usuario: usuario@martilor.com
+contraseña: 1234
+
+Inicio de sesion login con un usuario creado en codigo.
